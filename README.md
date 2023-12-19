@@ -18,4 +18,4 @@ code .
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 ### Licence
-[MIT]()
+[MIT](https://github.com/SecAccR/kodluyoruzilkrepo/tree/main?tab=MIT-1-ov-file)
