@@ -4,7 +4,7 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org) Git Eğitiminde oluşturduğumuz il
 
 ### Installation
 Öncelikle projeyi clonelayın.
-`git clone https://github.com/SecAccR/kodluyoruzilkrepo.git`
+<br>`git clone https://github.com/SecAccR/kodluyoruzilkrepo.git`
 
 ### Usage
 Projeyi cloneladıktan sonra VS Code programında açınız.
